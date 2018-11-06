@@ -148,7 +148,6 @@ module.exports = function() {
         }
 
         return arguments;
-        
     };
 
     module.cleanKeyboardLayout = function() {
